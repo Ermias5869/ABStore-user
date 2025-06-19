@@ -39,6 +39,9 @@
 To run the **user interface locally**:
 
 ```bash
+#git clone
+git clone https://github.com/Ermias5869/ABStore-user
+
 # Install dependencies
 npm install
 
