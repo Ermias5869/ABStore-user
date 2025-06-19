@@ -39,12 +39,6 @@
 To run the **user interface locally**:
 
 ```bash
-# Clone only the frontend repository
-git clone https://github.com/birhanu-dejen/ABStore-user.git
-
-# Navigate into the project directory
-cd ABStore-user
-
 # Install dependencies
 npm install
 
